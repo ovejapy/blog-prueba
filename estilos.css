@@ -1,0 +1,64 @@
+body
+{
+	background: #474747;
+	position: relative;
+}
+
+header
+{
+	/*background: grey;*/
+	border: 1px solid gray;
+	position: relative;
+	height: 200px;
+	/*overflow: hidden;*/
+}
+
+#logo img
+{
+	width: 128px;
+}
+
+#logo
+{
+	position: absolute;
+	padding: 2em 0 0 2em;
+
+}
+
+body header h1 
+{
+	float: right;
+	padding: 2em 2em 0 0;
+}
+
+nav
+{
+
+	background: #B7B5B5;
+	position: absolute;
+	width: 100%;
+
+}
+
+nav ul 
+{
+	text-align: center;
+}
+
+nav ul li
+{
+	display: inline-block;
+	padding: 0.5em;
+	margin: 0 1em 0 0;
+
+}
+
+nav ul li a
+{
+	text-decoration: none;
+	color: white;
+	padding: 0.5em;
+}
+
+
+
